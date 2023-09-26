@@ -2,13 +2,19 @@
 
 I'm David, a **Computer Engineer** from <img src="https://hatscripts.github.io/circle-flags/flags/cl.svg" width="15"> Chile graduated from the **Universidad de Santiago de Chile**.
 
-#### You can find me at:
+I'm interested in the frontend development area, although I have no problems developing full stack.
+
+You can check my portfolio in [https://www.david-ramirez.dev/](https://www.david-ramirez.dev/) 
+
+### You can also find me at:
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&labelColor=0b66c3&color=ffffff)](https://www.linkedin.com/in/davidramirezvicuna/)
 [![Itch.io Badge](https://img.shields.io/badge/itch.io-Profile-informational?style=flat&logo=Itch.io&logoColor=white&labelColor=ff2449&color=fefefe)](https://crimson-leaves.itch.io/)
 
 
 ## Github Stats 
+
+Here you can see my Github public stats.
 
 <img align="left" width="35%" alt="DavidRamirezV" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidRamirezV&layout=compact&theme=tokyonight" />
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=DavidRamirezV&theme=tokyonight" alt="DavidRamirezV" />
