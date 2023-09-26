@@ -14,7 +14,7 @@ You can check my portfolio in [https://www.david-ramirez.dev/](https://www.david
 
 ## Github Stats 
 
-Here you can see my Github public stats.
+Here you can see my public Github statistics.
 
 <img align="left" width="35%" alt="DavidRamirezV" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidRamirezV&layout=compact&theme=tokyonight" />
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=DavidRamirezV&theme=tokyonight" alt="DavidRamirezV" />
