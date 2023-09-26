@@ -7,7 +7,7 @@ I'm David, a **Computer Engineer** from <img src="https://hatscripts.github.io/c
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&labelColor=0b66c3&color=ffffff)](https://www.linkedin.com/in/davidramirezvicuna/)
 [![Itch.io Badge](https://img.shields.io/badge/itch.io-Profile-informational?style=flat&logo=Itch.io&logoColor=white&labelColor=ff2449&color=fefefe)](https://crimson-leaves.itch.io/)
 
-### Frameworks and Softwares I have used:
+### Frameworks and Software I have used:
 
 <p>
   <img alt="Angular" src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
