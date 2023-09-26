@@ -2,7 +2,7 @@
 
 I'm David, a **Computer Engineer** from <img src="https://hatscripts.github.io/circle-flags/flags/cl.svg" width="15"> Chile graduated from the **Universidad de Santiago de Chile**.
 
-I'm interested in the frontend development area, although I have no problems developing full stack.
+I'm interested in the **frontend** development area, although I have no problems developing **full stack**.
 
 You can check my portfolio in [https://www.david-ramirez.dev/](https://www.david-ramirez.dev/) 
 
